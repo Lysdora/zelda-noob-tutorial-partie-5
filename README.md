@@ -2,9 +2,10 @@
 
 > Un RPG pixel art inspiré de Zelda, créé avec Godot Engine 4.5
 
-![Banner du jeu](lien-vers-screenshot.png)
-*(Ajoute un screenshot ou GIF de ton jeu ici)*
+![Banner du jeu](zelda-noob.png)
 
+
+https://www.youtube.com/@LysdoraCraft
 ---
 
 ## 📖 À propos
