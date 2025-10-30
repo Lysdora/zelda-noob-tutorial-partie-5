@@ -348,6 +348,18 @@ position = Vector2(182, 89)
 [node name="Poulet" parent="YSorting" instance=ExtResource("5_vo7w3")]
 position = Vector2(74, 98)
 
+[node name="Poulet2" parent="YSorting" instance=ExtResource("5_vo7w3")]
+position = Vector2(274, 120)
+
+[node name="Poulet3" parent="YSorting" instance=ExtResource("5_vo7w3")]
+position = Vector2(152, 161)
+
+[node name="Poulet4" parent="YSorting" instance=ExtResource("5_vo7w3")]
+position = Vector2(71, 151)
+
+[node name="Poulet5" parent="YSorting" instance=ExtResource("5_vo7w3")]
+position = Vector2(209, 142)
+
 [node name="Player" parent="YSorting" instance=ExtResource("1_888cr")]
 y_sort_enabled = true
 position = Vector2(97, 99)
